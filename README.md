@@ -2,8 +2,8 @@
 with openCV
 
 I studied with two youtube video.
-##### https://youtu.be/NZde8Xt78Iw 
-##### https://youtu.be/p5Z_GGRCI5s
+##### https://youtube/NZde8Xt78Iw 
+##### https://youtube/p5Z_GGRCI5s
 
 This is definitely informative! but there were some problems.
 (It's not the video is wrong, just time has passed. so some module is changed.)
